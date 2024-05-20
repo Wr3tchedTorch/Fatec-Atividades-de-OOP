@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Ex2 {
+class Ex4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
